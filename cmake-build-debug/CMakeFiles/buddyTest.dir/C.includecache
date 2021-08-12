@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/50633/CLionProjects/BuddySystem/buddySystem/buddy.c
+stdlib.h
+-
+assert.h
+-
+stdio.h
+-
+string.h
+-
+
+C:/Users/50633/CLionProjects/BuddySystem/buddySystem/buddy.h
+stdlib.h
+-
+
+C:/Users/50633/CLionProjects/BuddySystem/buddySystem/buddyTest.c
+buddy.h
+C:/Users/50633/CLionProjects/BuddySystem/buddySystem/buddy.h
+buddy.c
+C:/Users/50633/CLionProjects/BuddySystem/buddySystem/buddy.c
+stdio.h
+-
+string.h
+-
+

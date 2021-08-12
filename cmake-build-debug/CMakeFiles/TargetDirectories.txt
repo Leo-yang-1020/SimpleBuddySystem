@@ -1,0 +1,5 @@
+C:/Users/50633/CLionProjects/BuddySystem/cmake-build-debug/CMakeFiles/BuddySystem.dir
+C:/Users/50633/CLionProjects/BuddySystem/cmake-build-debug/CMakeFiles/buddy.dir
+C:/Users/50633/CLionProjects/BuddySystem/cmake-build-debug/CMakeFiles/buddyTest.dir
+C:/Users/50633/CLionProjects/BuddySystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/50633/CLionProjects/BuddySystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
